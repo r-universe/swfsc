@@ -5,6 +5,9 @@
 [submodule "CruzPlot"]
 	path = CruzPlot
 	url = https://github.com/swfsc/cruzplot
+[submodule "eSDM"]
+	path = eSDM
+	url = https://github.com/swfsc/esdm
 [submodule "swfscDAS"]
 	path = swfscDAS
 	url = https://github.com/swfsc/swfscdas
