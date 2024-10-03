@@ -8,6 +8,9 @@
 [submodule "eSDM"]
 	path = eSDM
 	url = https://github.com/swfsc/esdm
+[submodule "swfscAirDAS"]
+	path = swfscAirDAS
+	url = https://github.com/swfsc/swfscairdas
 [submodule "swfscDAS"]
 	path = swfscDAS
 	url = https://github.com/swfsc/swfscdas
