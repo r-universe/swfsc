@@ -5,9 +5,15 @@
 [submodule "CruzPlot"]
 	path = CruzPlot
 	url = https://github.com/swfsc/cruzplot
+[submodule "banter"]
+	path = banter
+	url = https://github.com/swfsc/banter
 [submodule "eSDM"]
 	path = eSDM
 	url = https://github.com/swfsc/esdm
+[submodule "rfPermute"]
+	path = rfPermute
+	url = https://github.com/swfsc/rfpermute
 [submodule "swfscAirDAS"]
 	path = swfscAirDAS
 	url = https://github.com/swfsc/swfscairdas
