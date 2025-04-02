@@ -23,3 +23,6 @@
 [submodule "swfscDAS"]
 	path = swfscDAS
 	url = https://github.com/swfsc/swfscdas
+[submodule "swfscMisc"]
+	path = swfscMisc
+	url = https://github.com/swfsc/swfscmisc
