@@ -8,6 +8,12 @@
 [submodule "eSDM"]
 	path = eSDM
 	url = https://github.com/swfsc/esdm
+[submodule "rfPermute"]
+	path = rfPermute
+	url = https://github.com/swfsc/rfpermute
+[submodule "sprex"]
+	path = sprex
+	url = https://github.com/swfsc/sprex
 [submodule "swfscAirDAS"]
 	path = swfscAirDAS
 	url = https://github.com/swfsc/swfscairdas
