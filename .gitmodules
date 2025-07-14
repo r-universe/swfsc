@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "CruzPlot"]
-	path = CruzPlot
-	url = https://github.com/swfsc/cruzplot
 [submodule "banter"]
 	path = banter
 	url = https://github.com/swfsc/banter
@@ -17,9 +14,6 @@
 [submodule "sprex"]
 	path = sprex
 	url = https://github.com/swfsc/sprex
-[submodule "swfscAirDAS"]
-	path = swfscAirDAS
-	url = https://github.com/swfsc/swfscairdas
 [submodule "swfscDAS"]
 	path = swfscDAS
 	url = https://github.com/swfsc/swfscdas
